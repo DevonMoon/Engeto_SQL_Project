@@ -85,6 +85,20 @@ SELECT
 FROM salaries
 ORDER BY salary_growth;
 
+SELECT 
+	salary,
+	industry,
+	year_salary,
+	value,
+	item,
+	FLOOR(salary / value) AS value_entry
+FROM t_damian_ebner_project_sql_primary_final
+WHERE year_salary IN (2006, 2018)
+	AND (item LIKE '%mléko%' OR item LIKE '%chléb%')
+	AND industry_branch_code IS NULL;
+
+
+
 
 	
 	
