@@ -1,10 +1,4 @@
-SELECT 
-	AVG(czechia_price.value) AS value, 
-	czechia_price.category_code,
-	YEAR(czechia_price.date_from) AS year_price 
-FROM czechia_price
-WHERE czechia_price .region_code IS NULL
-GROUP BY czechia_price.category_code, YEAR(czechia_price.date_from);
+
 
 
 CREATE OR REPLACE TABLE czechia_payroll_new AS
@@ -19,6 +13,20 @@ CREATE OR REPLACE TABLE czechia_payroll_new AS
 	WHERE czpay.value_type_code = 5958
 	GROUP BY czpay.industry_branch_code, czpay.payroll_year
 	ORDER BY czpay.payroll_year, czpay.industry_branch_code;
+
+
+SELECT 
+	AVG(czechia_price.value) AS value, 
+	czechia_price.category_code,
+	YEAR(czechia_price.date_from) AS year_price 
+FROM czechia_price
+WHERE czechia_price .region_code IS NULL
+GROUP BY czechia_price.category_code, YEAR(czechia_price.date_from);
+
+
+
+
+
 
 
 SELECT *
