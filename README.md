@@ -96,6 +96,16 @@ II.
 How many liters of milk and kilograms of bread can be bought in the first and last comparable periods in the available price and wage data?
 
 
+
+In 2006, the quantity of milk recorded was 1353 liters, indicating the volume of milk consumed or produced during that year. Additionally, 1211 kilograms of bread were documented as being consumed or produced within the same period.
+
+Fast forward to 2018, the quantity of milk experienced an increase, with the recorded volume reaching 1616 liters. This signifies a change in milk consumption or production patterns over the years. Furthermore, in 2018, 1321 kilograms of bread were consumed or produced, reflecting the amount of bread consumed or produced during that specific year.
+
+These figures provide valuable insights into the trends and changes in milk and bread consumption or production between 2006 and 2018. By analyzing such data, researchers, policymakers, and stakeholders can gain a better understanding of consumption patterns, market dynamics, and potentially identify areas for further investigation or intervention.
+
+
+
+
 + 1353 l of milk in 2006
  
 + 1211 kg of bread in 2006
