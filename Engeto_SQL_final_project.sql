@@ -48,7 +48,23 @@ CREATE TABLE IF NOT EXISTS t_damian_ebner_project_SQL_primary_final AS
 		ON czpn.year_salary = czpn2.year_price;
 
 
-	
+SELECT *
+	FROM t_damian_ebner_project_sql_primary_final;
+
+
+CREATE OR REPLACE TABLE t_damian_ebner_project_SQL_secondary_final AS
+	SELECT 
+		e.country,
+		e.`year`,
+		e.GDP,
+		e.population,
+		e.gini
+	FROM economies e 
+	JOIN countries c 
+		ON e.country = c.country 
+	WHERE c.continent = 'Europe'
+		AND e.`year` BETWEEN 2006 AND 2018
+	ORDER BY e.country, e.`year`;
 	
 	
 
