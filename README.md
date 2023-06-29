@@ -45,8 +45,10 @@ Tips > Next, prepare a set of SQL, which will obtain the data base from the tabl
 
 Project output 
 
-I. Over the years, are wages rising in all industries, or falling in some?
-====================================================================
+I. 
+Over the years, are wages rising in all industries, or falling in some?
+
+
 Between 2006 - 2018, wages fell the most in the sector:
 
 + Finance and insurance in 2013
@@ -60,7 +62,8 @@ Between 2006 - 2018, wages fell the most in the sector:
   mining and quarrying in 2008
 ==================================================================
 
-II. How many liters of milk and kilograms of bread can be bought in the first and last comparable periods in the available price and wage data?
+II. 
+How many liters of milk and kilograms of bread can be bought in the first and last comparable periods in the available price and wage data?
 
 
 + 1353 l of milk in 2006
@@ -74,7 +77,8 @@ II. How many liters of milk and kilograms of bread can be bought in the first an
 
 ==================================================================
 
-III. Which food category is increasing in price the slowest (it has the lowest percentage year-on-year increase)?
+III. 
+Which food category is increasing in price the slowest (it has the lowest percentage year-on-year increase)?
 
 
 Through our rigorous analysis, we have determined that granulated sugar stands out as the food product exhibiting the lowest year-on-year percentage increase. This finding signifies a notable degree of price stability within the granulated sugar market, indicating minimal fluctuations in its cost over the specified period.
@@ -96,7 +100,8 @@ succinctly expressed : The food with the lowest year-on-year percentage increase
 =================================================================
 
 
-IV. Has there been a year in which the year-on-year increase in food prices was significantly higher than wage growth (greater than 10%)?
+IV. 
+Has there been a year in which the year-on-year increase in food prices was significantly higher than wage growth (greater than 10%)?
 
 
 Our meticulous analysis reveals a significant finding: the average price growth of all products has never exceeded average wage growth by 10%. Throughout the period under examination, the highest disparity occurred in 2013, with a difference of 6.14%.
@@ -116,5 +121,28 @@ In conclusion, our meticulous analysis indicates that the average price growth o
 succinctly expressed: Average price growth of all products was never 10% higher than average wage growth. The highest difference was in 2013 by 6.14%.
 
 ================================================================
+
+V.  
+Does the level of GDP affect changes in wages and food prices? Or, if the GDP increases more significantly in one year, will this be reflected in food prices or wages in the same or the following year by a more significant increase?
+
+
+
+Our comprehensive analysis reveals notable trends in the Gross Domestic Product (GDP) over the specified period. The GDP experienced significant increases in 2007, 2015, 2017, and 2018, indicating periods of economic growth and expansion. However, a substantial decrease in the GDP was observed in 2009, reflecting a significant contraction in the economy during that year.
+
+The relationship between GDP growth, wages, and prices is an essential aspect to consider when evaluating economic dynamics. In 2007, the GDP growth had a direct and significant impact on both wages and prices. This growth in GDP was accompanied by notable increases in wages and prices, indicating a correlation between economic expansion and overall inflationary pressures.
+
+The subsequent year, 2008, witnessed a continuation of this positive momentum, with further significant increases in wages and prices. This highlights the sustained impact of GDP growth on wages and consumer price levels, as economic expansion tends to drive both upward.
+
+In the subsequent years of 2015, 2017, and 2018, the GDP experienced growth, coinciding with corresponding increases in wages. This demonstrates a positive relationship between GDP expansion and improvements in wage levels, indicative of a more favorable economic environment for workers.
+
+Furthermore, the rise in the Household Price Index (HPI) was observed in 2015, 2017, and 2018, coinciding with periods of GDP growth and wage increases. This suggests that the level of GDP has a significant influence on changes in wages and food prices, as reflected by the fluctuations in the HPI.
+
+An interesting observation is that prices rose significantly only in 2017, indicating a year of intensified inflationary pressures. This discrepancy highlights the complex interplay between economic indicators and the diverse factors that contribute to price dynamics.
+
+In summary, our analysis reveals that the GDP exhibited growth in 2007, 2015, 2017, and 2018, while experiencing a significant decline in 2009. The relationship between GDP growth, wages, and prices is evident, as demonstrated by the substantial increases in wages and prices during years of GDP expansion. The fluctuations in the HPI further support the notion that changes in GDP influence wage levels and food prices. Additionally, the observed rise in prices only in 2017 underscores the intricate nature of price dynamics.
+
+By providing these insights, our analysis contributes to a comprehensive understanding of the economic landscape and facilitates evidence-based evaluations and decision-making. Understanding the impact of GDP on wages and prices enables policymakers and stakeholders to formulate effective strategies to navigate economic challenges, ensure equitable standards of living, and promote sustainable growth.
+
+
 
 
