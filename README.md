@@ -41,3 +41,22 @@ Tips > Next, prepare a set of SQL, which will obtain the data base from the tabl
 
 ==================================================================
 
+
+
+Project output 
+
+I. Over the years, are wages rising in all industries, or falling in some?
+====================================================================
+Between 2006 - 2018, wages fell the most in the sector:
+
++ Finance and insurance in 2013
+
++ Production and distribution of electricity and gas in 2013
+
++ Mining and quarrying in 2013 The sectors with the largest increase in wages were:
+
+  production and distribution of electricity and gas in 2008
+  mining and quarrying in 2008
+==================================================================
+
+II.   
