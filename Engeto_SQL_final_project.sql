@@ -23,6 +23,20 @@ CREATE OR REPLACE TABLE czechia_payroll_new AS
 
 SELECT *
 FROM czechia_payroll_new;
+
+
+CREATE OR REPLACE TEMPORARY TABLE czechia_prices_new AS
+	SELECT 
+		AVG(czpri.value) AS value, 
+		czpri.category_code,
+		czpc.name AS item,
+		YEAR(czpri.date_from) AS year_price 
+	FROM czechia_price As czpri
+	JOIN czechia_price_category czpc 
+		ON czpri.category_code = czpc.code 
+	WHERE czpri.region_code IS NULL
+	GROUP BY czpri.category_code, YEAR(czpri.date_from);
+
 	
 
 
