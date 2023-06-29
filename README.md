@@ -56,6 +56,7 @@ Between 2006 - 2018, wages fell the most in the sector:
 + Mining and quarrying in 2013 The sectors with the largest increase in wages were:
 
   production and distribution of electricity and gas in 2008
+  
   mining and quarrying in 2008
 ==================================================================
 
