@@ -25,7 +25,7 @@ SELECT *
 FROM czechia_payroll_new;
 
 
-CREATE OR REPLACE TEMPORARY TABLE czechia_prices_new AS
+CREATE OR REPLACE TABLE czechia_prices_new AS
 	SELECT 
 		AVG(czpri.value) AS value, 
 		czpri.category_code,
@@ -41,7 +41,7 @@ SELECT *
 FROM czechia_prices_new;
 	
 
-CREATE TABLE IF NOT EXISTS t_damian_ebner_project_SQL_primary_final AS
+CREATE OR REPLACE TABLE t_damian_ebner_project_SQL_primary_final AS
 	SELECT *
 	FROM czechia_payroll_new czpn 
 	JOIN czechia_prices_new czpn2 
@@ -49,7 +49,7 @@ CREATE TABLE IF NOT EXISTS t_damian_ebner_project_SQL_primary_final AS
 
 
 SELECT *
-	FROM t_damian_ebner_project_sql_primary_final;
+FROM t_damian_ebner_project_sql_primary_final;
 
 
 CREATE OR REPLACE TABLE t_damian_ebner_project_SQL_secondary_final AS
@@ -65,6 +65,26 @@ CREATE OR REPLACE TABLE t_damian_ebner_project_SQL_secondary_final AS
 	WHERE c.continent = 'Europe'
 		AND e.`year` BETWEEN 2006 AND 2018
 	ORDER BY e.country, e.`year`;
+
+-- I.
+
+WITH salaries AS (
+	SELECT DISTINCT 
+		year_salary,
+		industry_branch_code,
+		industry,
+		salary
+	FROM t_damian_ebner_project_SQL_primary_final AS dep  
+	WHERE industry_branch_code IS NOT NULL
+	)
+SELECT 
+	*,
+	LAG(salary) OVER (PARTITION BY industry_branch_code ORDER BY year_salary) AS salary_prev,
+	ROUND((salary - LAG(salary) OVER (PARTITION BY industry_branch_code ORDER BY year_salary)) * 100 / LAG(salary) OVER (PARTITION BY industry_branch_code ORDER BY year_salary), 2) AS salary_growth
+FROM salaries
+ORDER BY salary_growth;
+
+
 	
 	
 
