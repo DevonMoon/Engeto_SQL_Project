@@ -98,6 +98,24 @@ WHERE year_salary IN (2006, 2018)
 	AND industry_branch_code IS NULL;
 
 
+SELECT 
+	y.*,
+	ROUND((y.value - y.previous_price) * 100 / y.previous_price, 2) AS price_result
+FROM (
+	SELECT 
+		x.*,
+		ROUND(LAG(value) OVER (PARTITION BY category_code ORDER BY year_price), 3) AS previous_price
+	FROM (
+		SELECT DISTINCT 
+			year_price,
+			value,
+			category_code,
+			item
+		FROM t_damian_ebner_project_sql_primary_final 
+		) x
+	) y
+WHERE y.previous_price IS NOT NULL
+ORDER BY price_result;
 
 
 	
