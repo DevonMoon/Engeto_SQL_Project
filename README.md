@@ -106,11 +106,11 @@ These figures provide valuable insights into the trends and changes in milk and 
 
 
 
-+ 1353 l of milk in 2006
++ 1353 l of milk in   2006
  
 + 1211 kg of bread in 2006
   
-+ 1616 l of milk in 2018
++ 1616 l of milk in   2018
  
 + 1321 kg of bread in 2018  
 
