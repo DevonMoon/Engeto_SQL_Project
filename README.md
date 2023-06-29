@@ -36,6 +36,8 @@ IV.    Has there been a year in which the year-on-year increase in food prices w
 V.     Does the level of GDP affect changes in wages and food prices? Or, if the GDP increases more significantly in one year, will this be reflected in food prices or wages in the same or the following year by a more significant increase?
 
 ==================================================================
+
+
 Tips :
 
 
@@ -74,6 +76,9 @@ Document and communicate findings: Document the SQL queries used, including any 
 
 
 By following these guidelines, you can construct SQL queries that effectively extract and analyze the data required to answer your research questions. Remember to approach the analysis objectively, embracing both supportive and challenging outcomes, as the data itself will ultimately determine the conclusions drawn.
+
+
+
 ==================================================================
 
 
