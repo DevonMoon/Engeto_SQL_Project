@@ -36,9 +36,44 @@ IV.    Has there been a year in which the year-on-year increase in food prices w
 V.     Does the level of GDP affect changes in wages and food prices? Or, if the GDP increases more significantly in one year, will this be reflected in food prices or wages in the same or the following year by a more significant increase?
 
 ==================================================================
+Tips :
 
-Tips > Next, prepare a set of SQL, which will obtain the data base from the tables you have prepared to answer the set research questions. Be careful, the questions/hypotheses can support or refute your output! It depends on what the data says.
 
+
+To effectively obtain the necessary data from the tables you have prepared and address the defined research questions, follow these guidelines for constructing your SQL queries:
+
+
+Clearly define the research questions: Ensure a precise understanding of the research questions you aim to answer with the SQL queries. This clarity will guide the structure and content of your queries.
+
+
+Select the appropriate tables: Identify the relevant tables that contain the data needed to answer the research questions. Consider joining multiple tables if necessary to obtain a comprehensive dataset for analysis.
+
+
+Specify the required columns: Determine the specific columns or fields that are essential for the analysis. Choose the relevant attributes that align with the research questions and hypotheses.
+
+
+Apply filtering conditions: Utilize filtering conditions, such as WHERE clauses, to narrow down the dataset and focus on the specific aspects that address your research questions. This will help in extracting the relevant information and improving query performance.
+
+
+Aggregate and summarize data: Use appropriate aggregate functions, such as SUM, COUNT, AVG, or MAX, to calculate aggregated values that provide insights into the patterns and trends within the dataset. Group the data based on relevant attributes using the GROUP BY clause.
+
+
+Employ sorting and ordering: Arrange the output in a logical and meaningful order by utilizing the ORDER BY clause. You can sort the data in ascending or descending order based on specific columns or aggregated values to aid in analysis.
+
+
+Consider multiple scenarios: Account for both supporting and refuting outcomes while interpreting the query results. The data may present unexpected findings, and it is essential to objectively assess the results, considering different perspectives and potential implications.
+
+
+Optimize query performance: Ensure efficient execution of your SQL queries by indexing relevant columns, using appropriate joins, and avoiding unnecessary calculations. This optimization will help retrieve the data promptly and enhance the overall analysis process.
+
+
+Validate and review results: Thoroughly examine the output of your SQL queries to verify that they align with your research questions and hypotheses. Cross-check the results against the original data to ensure accuracy and reliability.
+
+
+Document and communicate findings: Document the SQL queries used, including any assumptions or limitations, along with the corresponding results. Clearly present the findings, acknowledging any unexpected or contradictory outcomes. Communicate the results in a concise and easily understandable manner to effectively convey the insights derived from the data.
+
+
+By following these guidelines, you can construct SQL queries that effectively extract and analyze the data required to answer your research questions. Remember to approach the analysis objectively, embracing both supportive and challenging outcomes, as the data itself will ultimately determine the conclusions drawn.
 ==================================================================
 
 
