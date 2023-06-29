@@ -37,6 +37,21 @@ CREATE OR REPLACE TEMPORARY TABLE czechia_prices_new AS
 	WHERE czpri.region_code IS NULL
 	GROUP BY czpri.category_code, YEAR(czpri.date_from);
 
+SELECT *
+FROM czechia_prices_new;
+	
+
+CREATE TABLE IF NOT EXISTS t_damian_ebner_project_SQL_primary_final AS
+	SELECT *
+	FROM czechia_payroll_new czpn 
+	JOIN czechia_prices_new czpn2 
+		ON czpn.year_salary = czpn2.year_price;
+
+
+	
+	
+	
+
 	
 
 
