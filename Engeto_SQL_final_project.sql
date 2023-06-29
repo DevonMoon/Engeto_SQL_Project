@@ -66,7 +66,8 @@ CREATE OR REPLACE TABLE t_damian_ebner_project_SQL_secondary_final AS
 		AND e.`year` BETWEEN 2006 AND 2018
 	ORDER BY e.country, e.`year`;
 
--- I.
+
+
 
 WITH salaries AS (
 	SELECT DISTINCT 
