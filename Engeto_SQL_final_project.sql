@@ -19,6 +19,10 @@ CREATE OR REPLACE TABLE czechia_payroll_new AS
 	WHERE czpay.value_type_code = 5958
 	GROUP BY czpay.industry_branch_code, czpay.payroll_year
 	ORDER BY czpay.payroll_year, czpay.industry_branch_code;
+
+
+SELECT *
+FROM czechia_payroll_new;
 	
 
 
