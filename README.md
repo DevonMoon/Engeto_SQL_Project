@@ -186,3 +186,8 @@ By providing these insights, our analysis contributes to a comprehensive underst
 
 
 
+======================================
+
+USEFUL LINK >   https://www.sqltutorial.org/
+
+======================================
