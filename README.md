@@ -188,9 +188,9 @@ By providing these insights, our analysis contributes to a comprehensive underst
 
 ======================================
 
-USEFUL LINKS >   https://www.sqltutorial.org/
-                 https://data.gov.cz/english/
-				 
+Drawn from these sources:    https://www.sqltutorial.org/
+                             https://data.gov.cz/english/
+				             https://engeto.cz/
 				 
 
 ======================================
