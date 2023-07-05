@@ -90,6 +90,9 @@ Between 2006 - 2018, wages fell the most in the sector:
   production and distribution of electricity and gas in 2008
   
   mining and quarrying in 2008
+  
+  
+  
 ==================================
 
 II. 
