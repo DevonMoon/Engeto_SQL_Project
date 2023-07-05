@@ -2,7 +2,7 @@
   Structured Query Language 
   
   Introduction to the Project
-===============================================================  
+==================================  
 
 Within the analytical department of our esteemed independent organization, which specializes in assessing the standard of living of citizens, we have undertaken a vital research endeavor aimed at addressing pertinent questions concerning the accessibility of essential food items to the general public. Our dedicated team of professionals has conscientiously defined a set of research questions that will serve as the foundation for our investigation. The valuable insights derived from this research will subsequently be shared with our esteemed press department, who will have the responsibility of presenting the findings at an upcoming conference dedicated to this critical domain.
 
@@ -14,14 +14,14 @@ The collaboration between our analytical department and the press department is 
 
 In summary, this project represents a collaborative effort within our independent company, combining the expertise of our analytical department with the communication prowess of the press department. By seeking to answer the defined research questions, we endeavor to contribute to the ongoing discourse surrounding the standard of living, specifically focusing on the accessibility of essential food items. Through our collective efforts, we aim to make a positive impact on society, ensuring that the general public is equipped with the necessary information to make informed decisions and foster an environment where the availability of staple foods is optimized for the benefit of all.
 
-=================================================================
+==================================
 
 To do this, they need you to prepare robust data bases in which it will be possible to see a comparison of food availability based on average incomes over a certain period of time.
 
 
 As additional material, prepare a table with GDP, GINI coefficient and population of other European countries in the same period, as a primary overview for the Czech Republic.
 
-=================================================================
+==================================
 
 Research questions
 
@@ -35,7 +35,7 @@ IV.    Has there been a year in which the year-on-year increase in food prices w
 
 V.     Does the level of GDP affect changes in wages and food prices? Or, if the GDP increases more significantly in one year, will this be reflected in food prices or wages in the same or the following year by a more significant increase?
 
-==================================================================
+==================================
 
 
 Tips :
@@ -69,7 +69,7 @@ To effectively obtain the necessary data from the tables you have prepared and a
 
 
 
-==================================================================
+==================================
 
 
 
@@ -90,7 +90,7 @@ Between 2006 - 2018, wages fell the most in the sector:
   production and distribution of electricity and gas in 2008
   
   mining and quarrying in 2008
-==================================================================
+==================================
 
 II. 
 How many liters of milk and kilograms of bread can be bought in the first and last comparable periods in the available price and wage data?
@@ -115,7 +115,7 @@ These figures provide valuable insights into the trends and changes in milk and 
 + 1321 kg of bread in 2018  
 
 
-==================================================================
+==================================
 
 III. 
 Which food category is increasing in price the slowest (it has the lowest percentage year-on-year increase)?
@@ -137,7 +137,7 @@ In conclusion, our comprehensive analysis demonstrates that granulated sugar exh
 succinctly expressed : The food with the lowest year-on-year percentage increase is granulated sugar.
 
 
-=================================================================
+==================================
 
 
 IV. 
@@ -160,7 +160,7 @@ In conclusion, our meticulous analysis indicates that the average price growth o
 
 succinctly expressed: Average price growth of all products was never 10% higher than average wage growth. The highest difference was in 2013 by 6.14%.
 
-================================================================
+==================================
 
 V.  
 Does the level of GDP affect changes in wages and food prices? Or, if the GDP increases more significantly in one year, will this be reflected in food prices or wages in the same or the following year by a more significant increase?
@@ -189,7 +189,9 @@ By providing these insights, our analysis contributes to a comprehensive underst
 ======================================
 
 Drawn from these sources:    https://www.sqltutorial.org/
+
                              https://data.gov.cz/english/
+							 
 				             https://engeto.cz/
 				 
 
