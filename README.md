@@ -72,7 +72,6 @@ To effectively obtain the necessary data from the tables you have prepared and a
 ==================================
 
 
-
 Project output 
 
 I. 
@@ -188,14 +187,18 @@ By providing these insights, our analysis contributes to a comprehensive underst
 
 
 
-
 ======================================
+
 
 Drawn from these sources:    https://www.sqltutorial.org/
 
-                             https://data.gov.cz/english/
+                             
+							 https://data.gov.cz/english/
 							 
-				             https://engeto.cz/
+				             
+							 https://engeto.cz/
 				 
+
+
 
 ======================================
