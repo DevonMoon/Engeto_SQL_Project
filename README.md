@@ -38,7 +38,7 @@ V.     Does the level of GDP affect changes in wages and food prices? Or, if the
 ==================================
 
 
-Tips :
+Tips : https://www.sqltutorial.org/ & https://engeto.cz/
 
 
 
