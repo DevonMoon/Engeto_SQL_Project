@@ -178,6 +178,10 @@ By providing these insights, our analysis contributes to a comprehensive underst
 
 succinctly expressed: Despite all the collected data and all the mentioned aspects, we are
                       they finally concluded that an increase or decrease in GDP does not affect an increase or decrease in wages or food prices.
+					  
+					  
+					  
+					  
 
 ======================================
 
@@ -187,3 +191,8 @@ Drawn from these sources:    https://www.sqltutorial.org/  &  https://data.gov.c
                              
 							 
 ======================================
+
+
+
+
+ALL HYPOTHESES ARE THE CONCLUSION OF OUR DATA ANALYSIS OF THE ANALYTICAL DEPARTMENT OF AN INDEPENDENT COMPANY THAT DEALS WITH THE STANDARD OF LIVING OF CITIZENS
