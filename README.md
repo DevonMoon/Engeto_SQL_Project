@@ -165,27 +165,28 @@ succinctly expressed: Average price growth of all products was never 10% higher 
 ==================================
 
 V.  
-Does the level of GDP affect changes in wages and food prices? Or, if the GDP increases more significantly in one year, will this be reflected in food prices or wages in the same or the following year by a more significant increase?
+Does the level of GDP affect changes in wages and food prices? Or if GDP increases more significantly in one year, will it be reflected in food prices or wages in the same year or the following year with a more significant increase?
 
 
 
-Our comprehensive analysis reveals notable trends in the Gross Domestic Product (GDP) over the specified period. The GDP experienced significant increases in 2007, 2015, 2017, and 2018, indicating periods of economic growth and expansion. However, a substantial decrease in the GDP was observed in 2009, reflecting a significant contraction in the economy during that year.
+Our comprehensive analysis reveals remarkable trends in gross domestic product (GDP) over the period. GDP has seen significant increases in 2007, 2015, 2017 and 2018, indicating a period of economic growth and expansion. In 2009, however, a substantial decline in GDP was observed, reflecting a significant decline in the economy during that year.
 
-The relationship between GDP growth, wages, and prices is an essential aspect to consider when evaluating economic dynamics. In 2007, the GDP growth had a direct and significant impact on both wages and prices. This growth in GDP was accompanied by notable increases in wages and prices, indicating a correlation between economic expansion and overall inflationary pressures.
+The relationship between GDP growth, wages and prices is a fundamental aspect to consider when evaluating economic dynamics. GDP growth in 2007 had a direct and significant impact on both wages and prices. This GDP growth was accompanied by significant increases in wages and prices, indicating a correlation between economic expansion and overall inflationary pressures.
 
-The subsequent year, 2008, witnessed a continuation of this positive momentum, with further significant increases in wages and prices. This highlights the sustained impact of GDP growth on wages and consumer price levels, as economic expansion tends to drive both upward.
+The following year, 2008, saw a continuation of this positive momentum with further significant increases in wages and prices. This underscores the persistent impact of GDP growth on wages and the consumer price level, as economic expansion tends to drive both upward.
 
-In the subsequent years of 2015, 2017, and 2018, the GDP experienced growth, coinciding with corresponding increases in wages. This demonstrates a positive relationship between GDP expansion and improvements in wage levels, indicative of a more favorable economic environment for workers.
+In the following years, 2015, 2017 and 2018, GDP growth coincided with corresponding wage growth. This demonstrates a positive relationship between GDP growth and improving wage levels, indicating a more favorable economic environment for workers.
 
-Furthermore, the rise in the Household Price Index (HPI) was observed in 2015, 2017, and 2018, coinciding with periods of GDP growth and wage increases. This suggests that the level of GDP has a significant influence on changes in wages and food prices, as reflected by the fluctuations in the HPI.
+In addition, 2015, 2017 and 2018 saw increases in the household price index (HPI), coinciding with periods of GDP growth and wage growth. This suggests that the level of GDP has a significant effect on changes in wages and food prices as reflected in fluctuations in the HPI.
 
-An interesting observation is that prices rose significantly only in 2017, indicating a year of intensified inflationary pressures. This discrepancy highlights the complex interplay between economic indicators and the diverse factors that contribute to price dynamics.
+An interesting observation is that prices did not rise significantly until 2017, suggesting a year of intensified inflationary pressures. This discrepancy highlights the complex interplay between economic indicators and the various factors that contribute to price dynamics.
 
-In summary, our analysis reveals that the GDP exhibited growth in 2007, 2015, 2017, and 2018, while experiencing a significant decline in 2009. The relationship between GDP growth, wages, and prices is evident, as demonstrated by the substantial increases in wages and prices during years of GDP expansion. The fluctuations in the HPI further support the notion that changes in GDP influence wage levels and food prices. Additionally, the observed rise in prices only in 2017 underscores the intricate nature of price dynamics.
+In summary, our analysis reveals that GDP showed growth in 2007, 2015, 2017 and 2018, while there was a significant decline in 2009. The relationship between GDP growth, wages and prices is evident, as evidenced by substantial wage increases. and prices during the GDP expansion years. Fluctuations in the HPI further support the view that changes in GDP affect wages and food prices. Moreover, the observed price growth only in 2017 underlines the complex nature of price dynamics.
 
-By providing these insights, our analysis contributes to a comprehensive understanding of the economic landscape and facilitates evidence-based evaluations and decision-making. Understanding the impact of GDP on wages and prices enables policymakers and stakeholders to formulate effective strategies to navigate economic challenges, ensure equitable standards of living, and promote sustainable growth.
+By providing these insights, our analysis contributes to a comprehensive understanding of the economic environment and facilitates evidence-based assessment and decision-making. Understanding the impact of GDP on wages and prices enables policymakers and stakeholders to formulate effective strategies to address economic challenges, ensure fair living standards and promote sustainable growth.
 
-
+Despite all the posthumous data and all the mentioned aspects, we are
+they finally came to the conclusion that an increase or decrease in GDP does not affect the increase or decrease in wages or food prices.
 
 ======================================
 
