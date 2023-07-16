@@ -4,15 +4,11 @@
   Introduction to the Project
 ==================================  
 
-Within the analytical department of our esteemed independent organization, which specializes in assessing the standard of living of citizens, we have undertaken a vital research endeavor aimed at addressing pertinent questions concerning the accessibility of essential food items to the general public. Our dedicated team of professionals has conscientiously defined a set of research questions that will serve as the foundation for our investigation. The valuable insights derived from this research will subsequently be shared with our esteemed press department, who will have the responsibility of presenting the findings at an upcoming conference dedicated to this critical domain.
 
-By embarking on this project, we aim to shed light on the availability of staple foods and its impact on the wider population. Our research questions have been carefully formulated to provide a comprehensive understanding of the current landscape, thereby enabling policymakers, stakeholders, and the public to make informed decisions and implement targeted strategies to address any potential challenges or disparities.
+In the analytical department of an independent company that deals with the living standards of citizens, you have agreed to try to answer a few specific research questions that address the availability of staple foods to the general public. Colleagues have already defined the basic questions that they will try to answer and provide this information to the press department. This department will present the results at the next conference focused on this area.
 
-Through rigorous analysis and data-driven methodologies, our analytical department is committed to delivering accurate and unbiased results that will serve as a valuable resource for both academic and practical purposes. We recognize the significance of this research in shaping public discourse, informing policy formulation, and ultimately striving towards ensuring an equitable standard of living for all individuals.
+To do this, they need you to prepare robust data bases in which it will be possible to see a comparison of food availability based on average incomes over a certain period of time.
 
-The collaboration between our analytical department and the press department is crucial, as it ensures that the outcomes of our research reach a wider audience, including policymakers, experts, and the general public. We are confident that by disseminating our findings at the upcoming conference, we will facilitate meaningful discussions and inspire collective action to address any issues pertaining to the availability of staple foods.
-
-In summary, this project represents a collaborative effort within our independent company, combining the expertise of our analytical department with the communication prowess of the press department. By seeking to answer the defined research questions, we endeavor to contribute to the ongoing discourse surrounding the standard of living, specifically focusing on the accessibility of essential food items. Through our collective efforts, we aim to make a positive impact on society, ensuring that the general public is equipped with the necessary information to make informed decisions and foster an environment where the availability of staple foods is optimized for the benefit of all.
 
 ==================================
 
@@ -123,18 +119,17 @@ III.
 Which food category is increasing in price the slowest (it has the lowest percentage year-on-year increase)?
 
 
-Through our rigorous analysis, we have determined that granulated sugar stands out as the food product exhibiting the lowest year-on-year percentage increase. This finding signifies a notable degree of price stability within the granulated sugar market, indicating minimal fluctuations in its cost over the specified period.
+Through our rigorous analysis, we found that granulated sugar stands out as the food product with the lowest year-over-year percentage increase. This finding implies a considerable degree of price stability in the granulated sugar market, indicating minimal fluctuations in its cost over the given period.
 
-Granulated sugar, as a staple food item, holds significant importance in culinary practices, food preparation, and beverage manufacturing. The sustained affordability of granulated sugar is a positive indication, as it ensures continued accessibility for a diverse range of consumers. This stability in pricing not only maintains the purchasing power of individuals but also promotes food security and contributes to a well-balanced standard of living.
+Granulated sugar as a basic food has a significant importance in culinary procedures, food preparation and beverage production. The continued affordability of granulated sugar is a positive indicator, as it ensures constant availability for a diverse spectrum of consumers. This price stability not only maintains the purchasing power of individuals, but also promotes food security and contributes to a balanced standard of living.
 
-The identification of granulated sugar as the food product with the lowest year-on-year percentage increase underscores the importance of monitoring price dynamics within the food industry. Such insights empower policymakers, market analysts, and stakeholders to better comprehend the underlying factors influencing pricing trends. This understanding facilitates the development of strategies to mitigate inflationary pressures, ensuring the availability of affordable and nutritious food options for the general public.
+Marking granulated sugar as the food product with the lowest year-on-year percentage increase underlines the importance of monitoring price dynamics in the food industry. These insights enable policy makers, market analysts and stakeholders to better understand the underlying factors influencing price trends. This understanding facilitates the development of strategies to mitigate inflationary pressures and ensure the availability of affordable and nutritious food to the general public.
 
-As an independent company specializing in assessing the standard of living, we recognize the significance of tracking and evaluating trends in staple food prices. Our research endeavors to provide valuable insights that inform decision-making processes, empower policymakers with evidence-based recommendations, and promote an equitable distribution of food resources.
+As an independent company specializing in the assessment of living standards, we recognize the importance of monitoring and evaluating trends in basic food prices.
 
-By identifying granulated sugar as the food product with the lowest year-on-year percentage increase, our findings contribute to a broader understanding of the current food market landscape. This knowledge serves as a foundation for informed discussions, policy formulation, and targeted interventions aimed at sustainably addressing the challenges associated with food affordability and accessibility.
+By identifying granulated sugar as the food product with the lowest year-on-year percentage increase, our findings contribute to a broader understanding of the current food market environment. This knowledge serves as a basis for informed discussions, policy formulation and targeted interventions aimed at sustainable solutions to food affordability and availability issues.
 
-In conclusion, our comprehensive analysis demonstrates that granulated sugar exhibits the lowest year-on-year percentage increase among the selected food products. This finding emphasizes the stability of granulated sugar prices and its positive implications for ensuring the availability of this essential food item to a wide range of consumers. As we continue to delve deeper into our research, we remain committed to delivering accurate and insightful analyses that contribute to a holistic understanding of the standard of living and support initiatives aimed at enhancing the well-being of individuals and communities.
-
+In conclusion, our comprehensive analysis shows that granulated sugar shows the lowest year-on-year percentage increase among the selected food products. This finding highlights the stability of granulated sugar prices and its positive implications for ensuring the availability of this staple food to a wide range of consumers. As we continue to deepen our research, we remain committed to providing accurate and insightful analysis that contributes to a holistic understanding of living standards and supports initiatives aimed at improving the well-being of individuals and communities.
 
 succinctly expressed : The food with the lowest year-on-year percentage increase is granulated sugar.
 
@@ -165,28 +160,24 @@ succinctly expressed: Average price growth of all products was never 10% higher 
 ==================================
 
 V.  
-Does the level of GDP affect changes in wages and food prices? Or if GDP increases more significantly in one year, will it be reflected in food prices or wages in the same year or the following year with a more significant increase?
-
-
-
 Our comprehensive analysis reveals remarkable trends in gross domestic product (GDP) over the period. GDP has seen significant increases in 2007, 2015, 2017 and 2018, indicating a period of economic growth and expansion. In 2009, however, a substantial decline in GDP was observed, reflecting a significant decline in the economy during that year.
 
-The relationship between GDP growth, wages and prices is a fundamental aspect to consider when evaluating economic dynamics. GDP growth in 2007 had a direct and significant impact on both wages and prices. This GDP growth was accompanied by significant increases in wages and prices, indicating a correlation between economic expansion and overall inflationary pressures.
+The relationship between GDP growth, wages and prices is a fundamental aspect to consider when evaluating economic dynamics. GDP growth in 2007 had a direct and significant impact on both wages and prices. This growth in GDP was accompanied by significant growth in wages and prices, suggesting a correlation between economic expansion and overall inflationary pressures.
 
-The following year, 2008, saw a continuation of this positive momentum with further significant increases in wages and prices. This underscores the persistent impact of GDP growth on wages and the consumer price level, as economic expansion tends to drive both upward.
+In the following year, 2008, this positive pace continued with another significant increase in wages and prices. This underscores the lingering impact of GDP growth on wages and the consumer price level, as economic expansion tends to drive both up.
 
-In the following years, 2015, 2017 and 2018, GDP growth coincided with corresponding wage growth. This demonstrates a positive relationship between GDP growth and improving wage levels, indicating a more favorable economic environment for workers.
+In the following years, 2015, 2017 and 2018, GDP growth coincided with corresponding wage growth. This indicates a positive relationship between GDP growth and improving wage levels, indicating a more favorable economic environment for workers.
 
-In addition, 2015, 2017 and 2018 saw increases in the household price index (HPI), coinciding with periods of GDP growth and wage growth. This suggests that the level of GDP has a significant effect on changes in wages and food prices as reflected in fluctuations in the HPI.
+In addition, the years 2015, 2017 and 2018 saw increases in the household price index (HPI), which coincided with periods of GDP growth and wage growth. This suggests that the level of GDP has a significant effect on changes in wages and food prices as reflected in fluctuations in the HPI.
 
-An interesting observation is that prices did not rise significantly until 2017, suggesting a year of intensified inflationary pressures. This discrepancy highlights the complex interplay between economic indicators and the various factors that contribute to price dynamics.
+An interesting observation is that prices did not rise significantly until 2017, indicating a year of intensified inflationary pressures. This discrepancy highlights the complex interplay between economic indicators and the various factors that contribute to price dynamics.
 
-In summary, our analysis reveals that GDP showed growth in 2007, 2015, 2017 and 2018, while there was a significant decline in 2009. The relationship between GDP growth, wages and prices is evident, as evidenced by substantial wage increases. and prices during the GDP expansion years. Fluctuations in the HPI further support the view that changes in GDP affect wages and food prices. Moreover, the observed price growth only in 2017 underlines the complex nature of price dynamics.
+In summary, our analysis reveals that GDP showed growth in 2007, 2015, 2017 and 2018, while there was a significant decline in 2009. The relationship between GDP growth, wages and prices is evident, as evidenced by the significant increase in wages. and prices during the GDP expansion years. Fluctuations in the HPI further support the view that changes in GDP affect wages and food prices. Moreover, the observed price growth only in 2017 underlines the complex nature of price dynamics.
 
-By providing these insights, our analysis contributes to a comprehensive understanding of the economic environment and facilitates evidence-based assessment and decision-making. Understanding the impact of GDP on wages and prices enables policymakers and stakeholders to formulate effective strategies to address economic challenges, ensure fair living standards and promote sustainable growth.
+By providing these insights, our analysis contributes to a comprehensive understanding of the economic environment and facilitates evidence-based assessment and decision-making. Understanding the impact of GDP on wages and prices enables policymakers and stakeholders to formulate effective strategies to address economic challenges, ensure fair living standards, and promote sustainable growth.
 
-Despite all the posthumous data and all the mentioned aspects, we are
-they finally came to the conclusion that an increase or decrease in GDP does not affect the increase or decrease in wages or food prices.
+succinctly expressed: Despite all the collected data and all the mentioned aspects, we are
+                      they finally concluded that an increase or decrease in GDP does not affect an increase or decrease in wages or food prices.
 
 ======================================
 
