@@ -192,7 +192,3 @@ Drawn from these sources:    https://www.sqltutorial.org/  &  https://data.gov.c
 							 
 ======================================
 
-
-
-
-ALL HYPOTHESES ARE THE CONCLUSION OF OUR DATA ANALYSIS OF THE ANALYTICAL DEPARTMENT OF AN INDEPENDENT COMPANY THAT DEALS WITH THE STANDARD OF LIVING OF CITIZENS
